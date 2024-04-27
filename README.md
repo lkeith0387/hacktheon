@@ -1,2 +1,2 @@
 # hacktheon
-<script>fetch("https://hkust.edu.hk/")</script>
+<script>fetch("https://hkust.edu.hk")</script>
